@@ -28,6 +28,6 @@
 --I usually play PC games on this platform: [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Kokoro_Daze/)
 
 ---
-# <center>Some of my info</center>
+<div align='center' ><font size='70'>Some info of me</font></div>
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiRorY&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
