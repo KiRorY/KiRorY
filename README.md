@@ -77,4 +77,6 @@
 [![KiRorY's BattleNet name:KiRorY#3556](https://img.shields.io/badge/Battle.net%20%7C%20KiRorY%233556-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)](https://www.blizzard.com/zh-tw/?_gl=1*1pbo1q7*_ga*MTY0OTY4MjQ0OC4xNjg5NjgzMDI1*_ga_VYKNV7C0S3*MTY4OTY4MzAyNC4xLjEuMTY4OTY4NDYwNy4xNi4wLjA.)
 [![KiRorY's Epic name:心溱汐KiRorY](https://img.shields.io/badge/Epic%20Games%20%7C%20%E5%BF%83%E6%BA%B1%E6%B1%90KiRorY-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/)
 [![KiRorY's EA ID:Hatatsumi_KiRorY](https://img.shields.io/badge/ea%20app%20%7C%20Hatatsumi__KiRorY-FA7343?style=for-the-badge&logo=EA&logoColor=white)](https://www.ea.com/ea-app)
+[![KiRorY's Riot Name:溱汐KRY#2351](https://img.shields.io/badge/Riot_Games%20%7C%20%E6%BA%B1%E6%B1%90KRY%232351-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://www.riotgames.com/en)
 
+[![KiRorY's NS nickname:こころ]([https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white](https://img.shields.io/badge/Nintendo_Switch%20%7C%20%E3%81%93%E3%81%93%E3%82%8D-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)https://img.shields.io/badge/Nintendo_Switch%20%7C%20%E3%81%93%E3%81%93%E3%82%8D-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)](SW-3300-5466-0920)
