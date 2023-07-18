@@ -11,7 +11,7 @@
 
 --我的个人博客小站: [KiRorY](kirory.xyz)
 
---我在PC上的游戏平台: [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Kokoro_Daze/)
+--我在PC上的游戏平台: [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kokoro_Daze/)
 
 # KiRorY
 ## Hi! This is KiRorYᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
@@ -25,7 +25,7 @@
 
 --My blog site: [KiRorY](kirory.xyz)
 
---I usually play PC games on this platform: [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Kokoro_Daze/)
+--I usually play PC games on this platform: [![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kokoro_Daze/)
 
 ---
 
@@ -34,10 +34,21 @@
 <b>System:</b>
 
 [![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://www.archlinux.org/)
-[![ArchLinux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
+
+<b>Tools:</b>
+
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/vs/)
+[![](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)](https://www.jetbrains.com/clion/)
+[![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
 
 
 [![KiRorY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiRorY&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 
  <!-- steam-box start -->
