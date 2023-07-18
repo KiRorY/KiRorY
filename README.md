@@ -28,5 +28,5 @@
 --I usually play PC games on this platform: [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/Kokoro_Daze/)
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=KiRorY&theme=light)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=KiRorY&theme=vue)
 
