@@ -30,6 +30,10 @@
 ---
 
 # Some Of My Info
+## My workspace
+[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
+
+
 [![KiRorY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiRorY&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
