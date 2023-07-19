@@ -82,3 +82,6 @@
 ---
 
 ![KiRorY's NS nickname:こころ](https://img.shields.io/badge/Nintendo_Switch%20%7C%20%E3%81%93%E3%81%93%E3%82%8D%20%7C%20SW330054660920-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+ <!-- steam-box start -->
+ <!-- steam-box end -->
