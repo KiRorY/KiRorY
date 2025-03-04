@@ -10,7 +10,7 @@
 
 --我的B站空间:[![心溱汐的B站空间](https://img.shields.io/badge/心溱汐-pink?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/79834065)
 
---我的个人博客小站: [KiRorY](kirory.xyz)
+--我的个人博客小站: [KiRorY](https://kirory.xyz/)
 
 --我的Steam个人主页:[![心溱汐的Steam主页](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kokoro_Daze/)
 
