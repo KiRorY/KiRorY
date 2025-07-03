@@ -2,9 +2,9 @@
 
 ## 你好!这里是溱汐ᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
 
-&ensp;&ensp; 这里是溱汐，一个不善言辞的学生。代码苦手，现在仍然在学习中...... :blue_book:   (..•˘_˘•..)
+&ensp;&ensp; 这里是溱汐，一个不善言辞的学生。现在仍然在学习中...... :blue_book:   (..•˘_˘•..)
 
-&ensp;&ensp; 目前专业的学习方向是后端系统相关，同时在学习英语和日语 :pencil2:。经常心血来潮会去尝试和学习新事物，不过大多时候都是浅尝辄止。&ensp;&ensp;╥﹏╥
+&ensp;&ensp; 目前专业的学习方向是后端系统和嵌入式相关，同时在学习英语和日语 :pencil2:。经常心血来潮会去尝试和学习新事物，不过大多时候都是浅尝辄止。&ensp;&ensp;╥﹏╥
 
 &ensp;&ensp; 兴趣是游戏 :video_game: 和网上冲浪 :earth_asia: 。杂食型游戏玩家，PC :computer:主机 :video_game: 双端玩家，移动端以音游 :musical_note: 为主。
 
@@ -18,9 +18,9 @@
 
 ## Hi! This is KiRorYᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
 
-&ensp;&ensp; Greetings!I'm a relative novice at programming and still learning at present...... :blue_book: (..•˘_˘•..)
+&ensp;&ensp; Greetings!This is KiRorY, a student who’s not great with words. Still learning, growing, and finding my voice here...... :blue_book: (..•˘_˘•..)
 
-&ensp;&ensp; My orientation is Back-end system related, at the same time I'm practicing English and Japanese language :pencil2: . Many times I've tried some novelties for me on the spur of the moment, but most of them have been gived up in the half way.╥﹏╥
+&ensp;&ensp; My current focus is on backend systems and embedded development, while I’m also studying English and Japanese :pencil2: . I often get inspired to try and learn new things, but most of the time I just scratch the surface.╥﹏╥
 
 &ensp;&ensp; I'm keen on playing games :video_game: and surfing the Internet :earth_asia: . Usually play on PC :computer: and game consoles :video_game: , also play rhythm games :musical_note: with mobile devices.
 
