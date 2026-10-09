@@ -59,7 +59,7 @@
 
 <b>Resently...</b>
 
-[![KiRorY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiRorY)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+[![KiRorY's github activity graph](https://raw.githubusercontent.com/KiRorY/KiRorY/output/activity-graph.svg)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
