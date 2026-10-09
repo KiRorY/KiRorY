@@ -1,19 +1,3 @@
-# 心溱汐KiRorY
-
-## 你好!这里是溱汐ᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
-
-&ensp;&ensp; 这里是溱汐，一个不善言辞的学生。现在仍然在学习中...... :blue_book:   (..•˘_˘•..)
-
-&ensp;&ensp; 目前专业的学习方向是人工智能与嵌入式软件相关，同时在学习英语和日语 :pencil2:。经常心血来潮会去尝试和学习新事物，不过大多时候都是浅尝辄止。&ensp;&ensp;╥﹏╥
-
-&ensp;&ensp; 兴趣是游戏 :video_game: 和网上冲浪 :earth_asia: 。杂食型游戏玩家，PC :computer:主机 :video_game: 双端玩家，移动端以音游 :musical_note: 为主。
-
---我的B站空间:[![心溱汐的B站空间](https://img.shields.io/badge/心溱汐-pink?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/79834065)
-
---我的个人博客小站: [KiRorY](https://kirory.xyz/)
-
---我的Steam个人主页:[![心溱汐的Steam主页](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kokoro_Daze/)
-
 # KiRorY
 
 ## Hi! This is KiRorYᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
@@ -29,6 +13,22 @@
 --My blog site: [KiRorY](kirory.xyz)
 
 --My Steam profile: [![KiRorY's Steam profile](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kokoro_Daze/)
+
+# 心溱汐KiRorY
+
+## 你好!这里是溱汐ᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
+
+&ensp;&ensp; 这里是溱汐，一个不善言辞的学生。现在仍然在学习中...... :blue_book:   (..•˘_˘•..)
+
+&ensp;&ensp; 目前专业的学习方向是人工智能与嵌入式软件相关，同时在学习英语和日语 :pencil2:。经常心血来潮会去尝试和学习新事物，不过大多时候都是浅尝辄止。&ensp;&ensp;╥﹏╥
+
+&ensp;&ensp; 兴趣是游戏 :video_game: 和网上冲浪 :earth_asia: 。杂食型游戏玩家，PC :computer:主机 :video_game: 双端玩家，移动端以音游 :musical_note: 为主。
+
+--我的B站空间:[![心溱汐的B站空间](https://img.shields.io/badge/心溱汐-pink?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/79834065)
+
+--我的个人博客小站: [KiRorY](https://kirory.xyz/)
+
+--我的Steam个人主页:[![心溱汐的Steam主页](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Kokoro_Daze/)
 
 ---
 
@@ -59,7 +59,7 @@
 
 <b>Resently...</b>
 
-[![KiRorY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiRorY)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![KiRorY's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KiRorY)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 
