@@ -1,6 +1,6 @@
 # KiRorY
 
-## Hi! This is KiRorYᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
+## Hi! This is KiRorY (Chang Liu)ᑋᵉᑊᑊᵒ ᵕ̈ ᑋᵉᑊᑊᵒ
 
 &ensp;&ensp; Greetings!This is KiRorY, a student who’s not great with words. Still learning, growing, and finding my voice here...... :blue_book: (..•˘_˘•..)
 
